@@ -1,2 +1,5 @@
 # hello-world
-Me doing the tutorial
+
+This is JAYSAP.
+
+I am just a streamer who makes trash content.
